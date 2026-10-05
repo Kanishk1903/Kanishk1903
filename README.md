@@ -51,3 +51,14 @@ Some of the tools I play with are FastAPI, React, and various Data Science frame
    </td>
  </tr>
 </table>
+
+<br><br>
+
+<h2 align="center">Save my commits from 🐍nakey 🥺</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
