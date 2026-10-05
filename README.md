@@ -54,11 +54,11 @@ Some of the tools I play with are FastAPI, React, and various Data Science frame
 
 <br><br>
 
-<h2 align="center">Pac-Man eating my commits 👻</h2>
+<h2 align="center">Galaga shooting my commits 🚀</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/galaga-contribution-graph.svg">
   </picture>
 </div>
