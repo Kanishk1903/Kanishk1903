@@ -54,11 +54,11 @@ Some of the tools I play with are FastAPI, React, and various Data Science frame
 
 <br><br>
 
-<h2 align="center">Minesweeper on my commits 💠</h2>
+<h2 align="center">Bomberman on my commits 💣</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/minesweeper-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/minesweeper-contribution-graph.svg">
-    <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/minesweeper-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/bomberman-contribution-graph.svg">
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/bomberman-contribution-graph.svg">
   </picture>
 </div>
