@@ -54,11 +54,11 @@ Some of the tools I play with are FastAPI, React, and various Data Science frame
 
 <br><br>
 
-<h2 align="center">Save my commits from 🐍nakey 🥺</h2>
+<h2 align="center">Pac-Man eating my commits 👻</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kanishk1903/Kanishk1903/output/pacman-contribution-graph.svg">
   </picture>
 </div>
