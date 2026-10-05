@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,nextjs,nodejs,mongodb,mysql,git,docker,linux,aws" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,html,css,react,nodejs,docker,linux,git,aws" alt="Tech Stack" />
   </a>
 </p>
 
